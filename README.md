@@ -1,6 +1,6 @@
 # Multiplication_Platformer
 ## Versions
-- 3.1 -- Latest
+- 3.1 -- Latest [https://github.com/gitipedras/Multiplication_Platformer/releases/tag/v3.1]
 
 ## Running the file
 ### Linux
