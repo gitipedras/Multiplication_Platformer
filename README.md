@@ -1,12 +1,23 @@
 # Multiplication_Platformer
-[ X86 Edition ]
+## Versions
+- 3.1 -- Latest
 
-### Running the file
+## Running the file
+### Linux
+1. Right click on the file and go to **properties**.
+2. Head to **Permissions**
+3. Click: Allow file to execute (checkbox)
+4. Close the window
+5. Right-click and click **Run** or **Run as Program**.
+6. ENJOY!
+### Windows
+1. Right-click and click **Open**
+2. Allow the file to run from the "Windows Protected your PC" promt.
+3. ENJOY
+###  Note: Bookmark or copy the link to the releases page, to go there for future game updates.
+###  Release Page: https://github.com/gitipedras/Multiplication_Platformer/releases
 
-1. Right click on the file and go  to properties.
-2. Make the file executable
-3. Run the file
-4. Enjoy
-###  Note: Come to this site to see more releases
+MacOS Builds are coming soon!
 
-Don't use linux? Wait for Episode 2 v1.0.0
+## Free and Open Source by Gitipedras.
+## THANK YOU!
